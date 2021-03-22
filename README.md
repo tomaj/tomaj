@@ -6,5 +6,6 @@
 
 🤔 Sometimes, I am contributing to [REMP project](https://remp2030.com/)
 
+---
 
-> 📫 You can reach me here on [Linkedin](https://www.linkedin.com/in/tomasmajer/)
+📫 You can reach me here on [Linkedin](https://www.linkedin.com/in/tomasmajer/)
