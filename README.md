@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-🛫 I’m currently working in [Kiwi.com](https://kiwi.com)
+🛫 I’m currently working in [Resco.net](https://resco.net), previously in [Kiwi.com](https://kiwi.com)
 
 🌱 I am maintaining a dozen PHP and Ruby packages like [Hermes](https://github.com/tomaj/hermes), [Nette Api](https://github.com/tomaj/nette-api) and multiple smaller ones
 
